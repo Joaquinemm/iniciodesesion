@@ -1,0 +1,76 @@
+.otra-clase{
+    width: 45%;
+    margin: auto;
+    margin-top: 10%;
+    height: 170px;
+    background-color: whitesmoke;
+    padding: 5%;
+    text-align: center;
+}
+
+
+h2{
+    margin-top: 0;
+}
+
+body{
+    background-image: url(https://static.wixstatic.com/media/97b295_343224e0b87544f6b1e301fabbe07d6e~mv2.gif);
+    position: center;
+    background-size:contain;
+    background-position:center;
+    background-attachment: fixed;
+    margin: 0%;
+
+}
+
+
+
+form{
+    width: 100%;
+    height: 100%;
+}
+
+
+.nombre{
+    width: 100%;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid #4c86308a;
+    margin-bottom: 0.7%;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.contrasena{
+    width: 100%;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid #4c86308a;
+    margin-bottom: 0.5%;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.iniciar{
+    margin-top: 5%;
+    background-color: transparent;
+    border: 2px solid #4c86308a;
+    border-radius: 4px;
+}
+.opacidad{
+    width: 100%;
+    height: 90%;
+    background-color: rgba(0, 0, 0, 0.600);
+    margin: 0;
+    padding-bottom: 12%;
+    padding-top: 10%;
+}
+
+.formulario{
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #4c86308a;
+    border-style:ridge;
+
+}
+
+
